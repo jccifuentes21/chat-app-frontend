@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c85084c2d1ccf9124012",
+    "revision": "72bdc01e74a498de5538",
     "url": "/chat-app-frontend/static/css/main.c16615d5.chunk.css"
   },
   {
-    "revision": "c85084c2d1ccf9124012",
-    "url": "/chat-app-frontend/static/js/main.c85084c2.chunk.js"
+    "revision": "72bdc01e74a498de5538",
+    "url": "/chat-app-frontend/static/js/main.72bdc01e.chunk.js"
   },
   {
     "revision": "806c969dbc33dc625d67",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/chat-app-frontend/static/media/loader.466bbd97.gif"
   },
   {
-    "revision": "f29b55648d18f21d45f98921a9753788",
+    "revision": "8be475f6afa4310ac4e5c1c424b85e31",
     "url": "/chat-app-frontend/index.html"
   }
 ];
