@@ -7,7 +7,7 @@ import SetAvatar from "./pages/SetAvatar";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename= {process.env.PUBLIC_URL} >
       <Routes>
         <Route path="/register" element={<Register />}></Route>
         <Route path="/login" element={<Login />}></Route>
