@@ -1,0 +1,10 @@
+export const host = `https://chat-app-final-project.herokuapp.com`;
+export const registerRoute = `/api/auth/register`;
+export const loginRoute = `/api/auth/login`;
+export const logoutRoute = `/api/auth/logout`;
+export const setAvatarRoute = `/api/auth/setAvatar`;
+export const allUsersRoute = `/api/auth/allUsers`;
+export const sendMessageRoute = `/api/messages/addMessage`;
+export const getMessagesRoute = `/api/messages/getMessages`;
+export const checkLoginRoute = `/api/auth/checkLogin`;
+export const setUserRoute = `/api/auth/setUser`;

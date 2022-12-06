@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --background-color: #150E56;
+    --chat-bubble-sent: #150E56;
+    --chat-bubble-received: #370e56;
+    --primary-text-color: white;
+    --form-background-color: #2e121d; 
+    --secondary-color: #7B113A;
+    --bg-variant-color: #1597BB;
+    --bg-variant-color-hover: #7B113A;
+}
+
+
+body,
+button,
+input {
+  font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    max-height: 100vh;
+    max-width: 100vw;
+    overflow-x: hidden;
+}
