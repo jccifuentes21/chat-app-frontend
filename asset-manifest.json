@@ -9,8 +9,8 @@
   "runtime~main.js.map": "/chat-app-frontend/static/js/runtime~main.3a058a2e.js.map",
   "static/media/welcome.gif": "/chat-app-frontend/static/media/welcome.c92c99b6.gif",
   "static/media/loader.gif": "/chat-app-frontend/static/media/loader.466bbd97.gif",
-  "static/css/1.b8108656.chunk.css.map": "/chat-app-frontend/static/css/1.b8108656.chunk.css.map",
   "static/css/main.c16615d5.chunk.css.map": "/chat-app-frontend/static/css/main.c16615d5.chunk.css.map",
+  "static/css/1.b8108656.chunk.css.map": "/chat-app-frontend/static/css/1.b8108656.chunk.css.map",
   "index.html": "/chat-app-frontend/index.html",
   "precache-manifest.db33b59ba39ff3cc642d36715cc0c1ac.js": "/chat-app-frontend/precache-manifest.db33b59ba39ff3cc642d36715cc0c1ac.js",
   "service-worker.js": "/chat-app-frontend/service-worker.js"
