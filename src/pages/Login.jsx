@@ -6,7 +6,7 @@ import "react-toastify/dist/ReactToastify.css";
 import axios from "axios";  
 import { loginRoute, checkLoginRoute } from "../utils/APIRoutes";
 
-// import Logo from "../assets/logo.png";
+import Logo from "../assets/logo-gradient.png";
 
 const Login = () => {
   const navigate = useNavigate();
@@ -71,8 +71,7 @@ const Login = () => {
       <FormContainer>
         <form onSubmit={(event) => handleSubmit(event)}>
           <div className="brand">
-            <img src="" alt="" />
-            <h1>CHAT</h1>
+            <img src={Logo} alt="" />
           </div>
           <input
             type="text"
